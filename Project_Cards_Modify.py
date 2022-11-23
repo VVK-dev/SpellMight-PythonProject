@@ -124,7 +124,7 @@ def update():
                                 #This clause updates the CardID of the card
                                     while True:
                                         try:
-                                            ID=input("Please enter a new damage value: ")
+                                            ID=input("Please enter a new ID value: ")
                                             sql1="update Cards set CardID="+ID+" where CardID="+cID
                                             mycursor.execute(sql1)
                                             mydb.commit()
