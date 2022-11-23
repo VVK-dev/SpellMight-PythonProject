@@ -1,0 +1,43 @@
+Welcome to the tutorial for SpellMight.
+General Premise and Story: 
+This is a 1v1 local multiplayer strategy game in which players play against one another in a match.
+During a match, players must try to defeat their opponent with the help of items called cards.
+However, These cards are not your typical playing cards. In fact, they are quite far from it!
+These cards are actually torn peices of ancient scrolls written in a long forgotten tongue by the first of the scholars. 
+These scrolls held the power to completely invoke the might of a god to aid the scholars in the time of battle.
+As the scrolls decayed with the passage of time, they turned into what we now call as cards but unfortunately have
+only a fragment of the power the original scrolls once held. But that doesn't mean that the cards are useless!
+They still have vast reserves of power within them and can be extremely deadly to mere mortals such as you and your opponent.
+Game Mechanics: 
+Each match is split up into 15 rounds. Each round is split up into 2 turns: 1 for you and 1 for your opponent.
+At the start of each match you have exactly 100 hp or hit-points. The main aim of the game is reduce your opponent's
+hp to 0 before they can do the same to you. To do so you will be using cards to deal damage to your opponent and reduce 
+their hp. At the beginning of each of your turns you will recieve 5 random cards from the main card deck.
+(To view the main deck you can choose that option in the main menu)
+All cards cost something called stamina to play. Each turn you get 10 stamina and depending upon how much stamina
+the card that you want to play costs, you may be able to play just 1 or even all 5 of the cards you recieve each turn.
+Many cards will also do more than just deal damage; they may also have various status effects that they may apply
+and may even heal you!
+Status effects are simply extra things that a card may do apart from healing and/or dealing damage and may limit the strategic
+choices of the opponent in various ways. 
+The explanations of all card related terms and different status effects are as follows:
+
+1)Damage: This value signifies how much damage the card will deal to your opponent,
+i.e. how much their hp will be reduced by when you play this card.
+2)Heal: This value signifies how much the card will heal you for and thereby increase your current hp. The amount this will heal 
+for will is indicated on the card.
+3)Stamina: This value indicates how much stamina a card costs, i.e. how much your stamina bar
+will be depleted if you choose to play that card.
+4)Burn: This is a special status effect. This effect will deal 2 damage to your opponent 
+on their next turn and reduce the healing they get from their cards by 20%. The amount of rounds this effect will
+last for is indicated on the card.
+5)Poison: This is a special status effect. This effect will deal 1 damage to your opponent
+on their next turn and reduce the amount of damage they deal by 20%. The amount of rounds this effect will
+last for is indicated on the card.
+6)Mark: This is a special status effect. This effect increases the amount of damage your oppenent takes by 15%. The amount 
+of rounds this effect will last for is indicated on the card. If a player is marked then a [M] will be displayed next to their health.
+7)Buff: This is a special effect that increases the amount of damage you deal and the amount you heal for by 15%.
+The amount of rounds this effect will last for is indicated on the card.
+Those were all of the effects currently appliable by cards in the game.
+NOTE: At the end of 15 rounds, if neither players are defeated, the one with the highest hp wins.
+And with that we have completed the basics of the game. Now try actually playing a match against someone and see how you fare. Enjoy!
